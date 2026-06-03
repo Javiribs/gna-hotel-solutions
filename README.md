@@ -1,5 +1,9 @@
 # GNA Hotel Solutions - Hotel Offers Landing Page
 
+## Live Demo
+
+https://gna-hotel-solutions.vercel.app/
+
 Landing page desarrollada con **Vue 3** y **Vite** como ejercicio práctico de desarrollo frontend para GNA Hotel Solutions.
 
 El proyecto reproduce una interfaz moderna para la visualización de ofertas hoteleras, siguiendo un diseño proporcionado en Figma y aplicando buenas prácticas de desarrollo frontend mediante componentes reutilizables, diseño responsive y lógica interactiva implementada con Vue.
