@@ -7,5 +7,11 @@
   --font-main: 'Open Sans', Arial, sans-serif;
 
   --container-width: 1180px;
-  --container-padding: 24px;
+  --container-padding: 20px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --container-padding: 24px;
+  }
 }

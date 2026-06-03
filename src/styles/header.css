@@ -38,12 +38,12 @@
 .header__nav {
   display: flex;
   align-items: center;
-  gap: 22px;
+  gap: 16px;
 }
 
 .header__nav a {
   font-family: var(--font-main);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
   line-height: 1;
   color: #ffffff;
@@ -51,8 +51,8 @@
 }
 
 .header__cta {
-  min-width: 96px;
-  height: 36px;
+  min-width: 92px;
+  height: 34px;
 
   display: inline-flex;
   align-items: center;
@@ -63,7 +63,6 @@
   border-radius: 28px;
 }
 
-/* Desktop */
 @media (min-width: 768px) {
   .header {
     height: 100px;
