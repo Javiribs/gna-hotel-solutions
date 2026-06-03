@@ -71,6 +71,21 @@
     line-height: 65px;
   }
 
+  .intro h2 span {
+    font-size: 48px;
+  }
+
+  .intro__text {
+    width: min(var(--container-width), calc(100% - var(--container-padding) * 2));
+    max-width: none;
+
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+
+    margin: 0 auto;
+  }
+
   .intro__text p {
     text-indent: 10px;
   }
