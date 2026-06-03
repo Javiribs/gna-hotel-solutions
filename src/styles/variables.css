@@ -1,0 +1,11 @@
+:root {
+  --color-pink: #E00069;
+  --color-soft-pink: #F1D0D6;
+  --color-dark: #000000;
+  --color-white: #ffffff;
+
+  --font-main: 'Open Sans', Arial, sans-serif;
+
+  --container-width: 1180px;
+  --container-padding: 24px;
+}
