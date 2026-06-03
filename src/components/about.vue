@@ -4,7 +4,7 @@
 
     <h2>
       GNA Hotel Solutions:<br>
-      l'èxit online del teu hotel
+      <span>l'èxit online del teu hotel</span>
     </h2>
 
     <div class="intro__decor intro__decor--bottom"></div>

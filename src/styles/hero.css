@@ -3,11 +3,13 @@
 .hero {
   position: relative;
   width: 100%;
-  min-height: 620px;
+
+  min-height: 100vh;
+  min-height: 100dvh;
 
   background-image: url('../assets/images/girona.webp');
   background-size: cover;
-  background-position: center top;
+  background-position: center center;
 
   overflow: hidden;
 }
@@ -41,7 +43,8 @@
 .hero__content {
   position: absolute;
   left: 50%;
-  bottom: 72px;
+  bottom: 48px;
+
   transform: translateX(-50%);
 
   width: calc(100% - 40px);

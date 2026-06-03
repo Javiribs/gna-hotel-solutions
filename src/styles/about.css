@@ -20,12 +20,16 @@
   margin: 0;
 
   font-family: var(--font-main);
-  font-size: 34px;
+  font-size: 28px;
   font-weight: 400;
   line-height: 1.25;
 
   text-align: center;
   color: #000000;
+}
+
+.intro h2 span {
+  font-size: 26px;
 }
 
 .intro__text {
