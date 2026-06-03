@@ -37,7 +37,7 @@
 .intro__text {
   width: 100%;
   max-width: 620px;
-
+  
   display: flex;
   flex-direction: column;
   gap: 22px;
@@ -54,7 +54,7 @@
   line-height: 22px;
 
   color: #000000;
-  text-indent: 0;
+  text-indent: 10px;
 }
 
 @media (min-width: 768px) {
